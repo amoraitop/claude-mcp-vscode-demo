@@ -1,0 +1,5 @@
+{
+  "claude.mcpToolPath": "python tools/server.py",
+  "claude.experimentalFeaturesEnabled": true,
+  "claude.showToolInvocations": true
+}
